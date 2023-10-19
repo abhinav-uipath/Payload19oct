@@ -1,0 +1,111 @@
+{
+    "Objects": {
+        "dispute": {
+            "applicant": "Tenant",
+            "dispute_id": "EWI00000575",
+            "user": {
+                "user_id": "189310",
+                "email": "zoej999@gmail.com",
+                "firstname": "Zoe",
+                "surname": "Jenkins"
+            }
+        },
+        "member": {
+            "member_id": "848",
+            "g_number": "G01005",
+            "member_name": "Spicer Haart Residential Lettings Ltd",
+            "email": "Sian.tyler@spicerhaart.co.uk",
+            "sage_category": "1A",
+            "member_status": "Member",
+            "note": "Agent has confirmed bank details for all SpicerHaart Payments as::\r\nAccount Number: 43664171\r\nAccount Name: Spicerhaart Residential Lettings Client Deposit Account\r\nSort Code: 401203\r\nBank: HSBC",
+            "approved_bodies": {
+                "arla": true,
+                "arma": false,
+                "balma": false,
+                "glm": false,
+                "gorl": false,
+                "corporate": false,
+                "ha": false,
+                "law_society": false,
+                "naea": false,
+                "safeagent": false,
+                "nforl": false,
+                "nla": false,
+                "oea": false,
+                "other_body": false,
+                "rics": false,
+                "rsl": false,
+                "tls": false,
+                "tpos": false,
+                "ukala": false,
+                "none": false
+            },
+            "branch": {
+                "branch_id": "848::9151",
+                "branch_name": "Haart-Albany Road",
+                "branch_status": "Open",
+                "note": "Please use the following contact details in all communications with this branch:\r\n[PMCardiff@darlows.co.uk](mailto:PMCardiff@darlows.co.uk)\u00a0Tel:01633 225075\r\nPM Manager Kate Benjamin\u00a0 (for escalation only)\r\nupdated S Gaughran 27\/04\/23"
+            }
+        },
+        "landlord": {
+            "landlord_type": "Non Member",
+            "landlord_id": "848::9151::L0002J0410-A07BA9B2",
+            "firstname": "Dr Maximilian",
+            "surname": "Greene"
+        }
+    },
+    "FormData": {
+        "tenancy": {
+            "end_date": "2023-08-18",
+            "start_date": "2022-08-19",
+            "deposit_amount": "995.00",
+            "deposit_protection_start_date": "2022-08-19",
+            "non_managed": "false",
+            "tenancy_type": "Agent",
+            "paon": "135",
+            "saon": "TFF",
+            "street": "Mackintosh Place",
+            "town": "Cardiff",
+            "country": "United Kingdom",
+            "postcode": "CF24 4RN",
+            "number_of_tenants": 2,
+            "unique_id": "pHxy5SF8",
+            "tenancy_id": "848::9151::L0002J0410-A07BA9B2::J2931I1705-F6B7413A",
+            "depository": "false"
+        },
+        "tenant": {
+            "tenant_1": {
+                "email": "zoej999@gmail.com",
+                "title": "Miss",
+                "firstname": "Zoe",
+                "surname": "Jenkins",
+                "paon": "Smithfield Buildings 44",
+                "saon": "Flat 206",
+                "street": "Tib Street",
+                "county": "Lancashire",
+                "country": "United Kingdom",
+                "postcode": "m4 1la",
+                "phone": "07753101588"
+            },
+            "tenant_2": {
+                "email": "9klein6@gmail.com",
+                "title": "Mr.",
+                "firstname": "Jacob",
+                "surname": "South Klein",
+                "paon": "Smithfield Buildings 44",
+                "saon": "Flat 206",
+                "street": "Tib Street",
+                "town": "Manchester",
+                "country": "United Kingdom",
+                "postcode": "m4 1la"
+            }
+        },
+        "agent": {
+            "email": "lauren.keirle@darlows.co.uk",
+            "title": "Miss",
+            "surname": "Keirle",
+            "member_name": "Spicer Haart Residential Lettings Ltd",
+            "country": "United Kingdom"
+        }
+    }
+}
